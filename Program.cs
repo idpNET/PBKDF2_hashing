@@ -74,6 +74,7 @@ namespace PBKDF2_hashing
             Console.WriteLine("[Hashing process took " + Time + " with " + Iterations + " times of iteration]");
             Console.BackgroundColor = ConsoleColor.Black;
             Console.ForegroundColor = ConsoleColor.White;
+            Console.ReadLine();
 
         }
         #endregion

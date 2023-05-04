@@ -1,7 +1,11 @@
 ﻿
 /*  Password hashing using PBKDF2 (SHA256 hashing Algorithm)
- *  +Setting iteration time
- *  +Hashing process time tracking
+
+    .PBKDF2 Hashing + SHA256 Hashing Algorithm
+    .Strong Salting (an array of bytes with a cryptographically strong sequence of random nonzero values)
+    .Customizable Hashing and salting Keys' size + hashing iteration times.
+    .Hashing process time tracking.
+
  *  https://github.com/idpNET/PBKDF2_hashing
  */
 
