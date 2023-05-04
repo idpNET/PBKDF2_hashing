@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/idpNET/PBKDF2_hashing">
-    <img src="Resources/logo.png" alt="Logo" width="128" height="128">
+    <img src="Resources/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">PBKDF2 Password Hasing with Salting (SHA256 Hashing Algorithm)</h3>
